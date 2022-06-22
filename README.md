@@ -1,7 +1,7 @@
 # GuslopezA.github.io
 Hello world!!!
 
-Mi portafolio: https://github.com/GuslopezA/GuslopezA.github.io
+Mi portafolio: https://guslopeza.github.io/
 
 Compañeros Forkeados: 
 https://github.com/GuslopezA/JocelynFrance.github.io
